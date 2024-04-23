@@ -41,7 +41,7 @@ def test_order_creation_and_retrieval():
 #       print("Данные заказа:")
 #       print(order_data)
 
-
+# Ольга Браткова 15-я когорта — Финальный проект. Инженер по тестированию плюс
 test_order_creation_and_retrieval()
 
 
